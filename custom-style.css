@@ -1,0 +1,32 @@
+		*, a, a:hover{
+			color:gray;
+			padding: 2px;
+		}
+		.selected-link{
+			font-weight: bold;
+		}
+		.message{
+			position: absolute;
+			z-index: 10;
+			left: 5px;
+			background: #60eb9a;
+			font-weight: bold;
+			color: white;
+			padding: 5px;
+			font-size: 1.22rem;
+		}
+		#title{
+			font-size: 1.5rem;
+		}
+		 #last-row {
+			background-color: #1c1914;
+		}
+		#footer-div {
+			background-color: black;
+		}
+		#last-row hr{
+			border-color: lightgray;
+		}
+		#last-row span{
+			color:white;
+		}
